@@ -4,8 +4,14 @@ langchain-openai
 langchain-core
 faiss-cpu
 chromadb
-sentence-transformers
 tiktoken
 python-dotenv
 pypdf
 pymupdf
+openpyxl
+jq  
+matplotlib
+
+# Embeddings
+langchain-huggingface
+sentence-transformers
