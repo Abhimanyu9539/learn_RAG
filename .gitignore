@@ -15,3 +15,4 @@ wheels/
 
 # Data
 0_Data_Ingestion/data
+2_Vector_Stores/chroma_db
