@@ -11,7 +11,7 @@ wheels/
 
 # Environment variables
 .env
-
+5_debugging/.langgraph_api
 
 # Data
 0_Data_Ingestion/data
