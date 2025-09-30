@@ -2,6 +2,7 @@ langchain
 langchain-community
 langchain-openai
 langchain-core
+langchain_tavily
 faiss-cpu
 chromadb
 tiktoken
@@ -16,6 +17,7 @@ matplotlib
 langchain-huggingface
 sentence-transformers
 langchain-experimental
+
 
 rank_bm25
 wikipedia
