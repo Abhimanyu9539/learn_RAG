@@ -1,4 +1,6 @@
 langchain
+langsmith
+openai
 langchain-community
 langchain-openai
 langchain-core
@@ -19,7 +21,9 @@ langchain-huggingface
 sentence-transformers
 langchain-experimental
 
-
+ipykernel
 rank_bm25
 wikipedia
 langgraph-cli[inmem]
+
+pandas
